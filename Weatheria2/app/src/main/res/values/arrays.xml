@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="list_entry_label">
+        <item>@string/list_label_metrics</item>
+        <item>@string/list_label_imperial</item>
+    </string-array>
+    <string-array name="list_entry_values">
+        <item>@string/list_valse_metrics</item>
+        <item>@string/list_valse_imperial</item>
+    </string-array>
+</resources>
